@@ -232,7 +232,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -334,6 +334,18 @@
     [
       "3ff93668-efc3-42e6-a72e-521229bcc4c8",
       ""
+    ],
+    [
+      "1a69730e-7385-4e82-a4d7-07ff783c05ad",
+      "Measurement Computer"
+    ],
+    [
+      "34cd6572-1d03-4ef0-8710-332eddd1e16e",
+      "Comms Computer"
+    ],
+    [
+      "caf9fb23-904f-4f5d-9408-b4ebadda3c1c",
+      "BMS+PSU"
     ]
   ],
   "text_variables": {}
